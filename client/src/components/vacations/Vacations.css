@@ -1,0 +1,28 @@
+.icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 26px;
+}
+.follow {
+  position: absolute;
+  top: 1%;
+  right: 0%;
+  cursor: pointer;
+  font-size: 28px;
+ 
+}
+.unFollow {
+  position: absolute;
+  color: goldenrod;
+  top: 1%;
+  right: 0%;
+  cursor: pointer;
+  background: transparent;
+  font-size: 28px;
+
+}
+
+.total {
+  font-weight: 700;
+}

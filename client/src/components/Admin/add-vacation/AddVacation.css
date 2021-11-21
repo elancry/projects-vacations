@@ -1,0 +1,8 @@
+.add_vac_input {
+  font-size: 22px;
+  border-radius: 75px 75px 75px 75px !important;
+  margin: 10px 0px 10px 0px;
+}
+::placeholder {
+  font-size: 16px;
+}

@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Monoton&family=Rampart+One&display=swap");
+.navbar {
+  background: linear-gradient(180deg, #00122c, #00122cf3);
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+
+.myBrand {
+  font-family: "Aclonica", sans-serif;
+  font-size: 22px !important;
+  margin-right: 50px !important;
+}
+.s {
+  color: goldenrod;
+}
+.header {
+  z-index: 99;
+}
+.login,
+.sign-up {
+  font-family: "Montserrat", sans-serif;
+  background: white !important;
+  margin-right: 10px;
+  border: none !important;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  opacity: 1;
+}
+
+.login:hover,
+.sign-up:hover {
+  opacity: 0.8;
+}
+
+.vacations,
+.about {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  opacity: 1;
+}
+
+.vacations:hover,
+.about:hover {
+  opacity: 0.8;
+}
+
+.welcome {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px !important;
+  font-weight: 700 !important;
+}
+
+.navb {
+  margin-right: 25px !important;
+}
+.presentation-title1 {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 1em;
+  font-weight: 700;
+  color: #ffffff;
+  background: #fbf8ec;
+  background: -moz-linear-gradient(top, #ffffff 35%, #4e6773 100%);
+  background: -webkit-linear-gradient(top, #ffffff 35%, #4e6773 100%);
+  background: linear-gradient(to bottom, #ffffff 35%, #4e6773 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.t {
+  font-size: 25px;
+  font-family: "Monoton", cursive;
+}
